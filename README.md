@@ -1,4 +1,5 @@
 # PORTOFOLIO
+Link Deploy: https://portofolio-theta-nine.vercel.app/
 Ini merupakan proyek portofolio pribadi Andi Farhan Hidayat (19623112/13523128)
 
 Proyek ini menggunakan konfigurasi T3App, lebih lengkapnya menggunakan Next, Typescript, TRPC, Drizzle, dan Supabase. Dalam hal styling proyek ini menggunakan bantuan Tailwind.
@@ -10,7 +11,7 @@ Cara menjalankan program:
 4. buka browser dan mulailah menuju alamat: `http://localhost:3000/`
 
 Bonus yang dikerjakan:
-1. Deploy - Parsial
+1. Deploy - Selesai
 2. Responsive - Parsial
 3. Kreativitas: Telah menggunakan styling khusus untuk navbar dan styling dengan tema elegan sederhana pada seluruh web. Selain itu, untuk tampilan juga mengikuti style LinkedIn.
 
