@@ -7,6 +7,7 @@ Proyek ini menggunakan konfigurasi T3App, lebih lengkapnya menggunakan Next, Typ
 Cara menjalankan program:
 1. clone repository ini
 2. jalankan `npm install`
+3. buat file .env berisi konten pada .env.example yang telah dilengkapi
 3. jalankan `npm run dev`
 4. buka browser dan mulailah menuju alamat: `http://localhost:3000/`
 
