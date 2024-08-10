@@ -2,7 +2,7 @@ import React from "react";
 
 const MinatBakat = () => {
   return (
-    <div className="my-5 h-fit w-full bg-gray-200 px-48 py-5">
+    <div className="my-5 h-fit w-full bg-gray-100 px-48 py-5">
       <div className="flex h-fit w-3/5 items-start justify-start gap-16">
         <div className="flex flex-col">
           <span className="font-bold">Interest:</span>
